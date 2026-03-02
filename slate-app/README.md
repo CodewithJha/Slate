@@ -45,6 +45,4 @@ A smart internship and fresher job offer analyzer that tells you if an opportuni
 
 If Supabase is not configured, analyses still work — they’re stored in the browser session and share links won’t persist.
 
-## License
 
-MIT
